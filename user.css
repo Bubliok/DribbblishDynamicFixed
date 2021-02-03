@@ -1089,7 +1089,7 @@ body.video-full-screen .view-player .player-controls-container .progress-contain
 
 .view-player .player-controls-container {
     text-align: left;
-    flex: 1 1;
+    flex: 0 0; /* 1  1 */
     order: 2; /* Default: 0 */
     min-width: 220px;
 }
